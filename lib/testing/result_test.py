@@ -1,8 +1,8 @@
 import pytest
 
-from classes.many_to_many import Player
-from classes.many_to_many import Game
-from classes.many_to_many import Result
+from classes.Player import Player
+from classes.Game import Game
+from classes.Result import Result
 
 
 class TestResults:
